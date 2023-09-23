@@ -34,3 +34,12 @@ ul li {
   list-style: none;
   color: rgb(149, 234, 255);
 }
+
+#banner {
+  width: 1920px;
+  height: 300px;
+}
+
+main {
+  display: flex;
+}
