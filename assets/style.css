@@ -64,8 +64,3 @@ main {
   justify-content: center;
   flex-wrap: wrap;
 }
-
-#work-container {
-  display: flex;
-  flex-wrap: wrap;
-}
