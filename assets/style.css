@@ -43,3 +43,19 @@ ul li {
 main {
   display: flex;
 }
+
+aside {
+  float: left;
+  border: solid red 2px;
+}
+
+aside h1 {
+  border-right: solid rgb(149, 234, 255) 4px;
+  padding: 50px;
+  font-size: 55px;
+}
+
+section {
+  float: right;
+  border: solid red 2px;
+}
