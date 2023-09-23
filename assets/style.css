@@ -2,6 +2,7 @@
   font-family: Arial, Helvetica, sans-serif;
   color: rgb(104, 111, 135);
   box-sizing: border-box;
+  margin: 0px;
 }
 
 header {
@@ -13,12 +14,23 @@ header {
   background: rgb(68, 65, 65);
 }
 
+header h1 {
+  background: rgb(149, 234, 255);
+  font-size: 50px;
+  padding: 7px 30px;
+  padding-left: 100px;
+}
+
 ul {
   display: flex;
+  margin-right: 100px;
+  font-size: 24px;
 }
 
 ul li {
   text-align: center;
+  text-decoration: underline;
   padding: 10px 20px;
   list-style: none;
+  color: rgb(149, 234, 255);
 }
