@@ -35,27 +35,37 @@ ul li {
   color: rgb(149, 234, 255);
 }
 
+main {
+  display: flex;
+}
+
 #banner {
   width: 1920px;
   height: 300px;
 }
 
-main {
+#about-me-container {
   display: flex;
-}
-
-aside {
-  float: left;
   border: solid red 2px;
+  justify-content: center;
 }
 
-aside h1 {
-  border-right: solid rgb(149, 234, 255) 4px;
-  padding: 50px;
-  font-size: 55px;
-}
-
-section {
-  float: right;
+#about-me-container h1 {
   border: solid red 2px;
+  align-self: center;
+  font-size: 35px;
+  padding: 10px;
+}
+
+#about-me-container article {
+  border: solid red 2px;
+  margin: 10px;
+  width: 50%;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#work-container {
+  display: flex;
+  flex-wrap: wrap;
 }
