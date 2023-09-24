@@ -37,6 +37,7 @@ ul li {
 
 main {
   display: flex;
+  border: solid blue 2px;
 }
 
 #banner {
