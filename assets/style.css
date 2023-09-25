@@ -76,6 +76,7 @@ main {
 .project-work {
   background-color: aqua;
   border: solid rgb(0, 140, 255) 3px;
+  border-radius: 5px;
   height: 150px;
   width: 500px;
   margin: 2%;
