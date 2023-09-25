@@ -60,6 +60,12 @@ main {
   width: 20%;
 }
 
+/* Note: I used the flex-wrap: wrap-reverse. This helps have the children elements inside the work-container to have that pyramid looking effect. */
+
+.work-container {
+  display: flex;
+  flex-wrap: wrap;
+}
 .container article {
   border: solid green 2px;
   margin: 10px;
@@ -68,16 +74,33 @@ main {
   flex-wrap: wrap-reverse;
 }
 
-.work-container {
-  display: flex;
-  flex-wrap: wrap;
+.project-work {
+  border: solid rgb(0, 140, 255) 3px;
+  border-radius: 5px;
+  height: 300px;
+  width: 500px;
+  margin: 2%;
 }
 
 .project-work {
-  background-color: aqua;
+  background-image: url(https://www.kibacapital.com/wp-content/uploads/2018/05/banner-space.jpg);
+  padding-top: 200px;
+  padding-left: 20px;
+  color: aliceblue;
+  font-size: 50px;
+}
+
+/* This below is an ID for the top project banner. It looks weird in HTML that we are using the last element, but it is because we are using flex:wrap wrap-reverse! */
+
+#project-work1 {
   border: solid rgb(0, 140, 255) 3px;
   border-radius: 5px;
-  height: 150px;
-  width: 500px;
+  height: 300px;
+  width: 1050px;
   margin: 2%;
+  background-image: url(https://www.kibacapital.com/wp-content/uploads/2018/05/banner-space.jpg);
+  padding-top: 200px;
+  padding-left: 20px;
+  color: aliceblue;
+  font-size: 50px;
 }
