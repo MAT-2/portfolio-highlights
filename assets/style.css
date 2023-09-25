@@ -38,6 +38,7 @@ ul li {
 main {
   display: flex;
   border: solid blue 2px;
+  flex-direction: column;
 }
 
 #banner {
@@ -45,23 +46,27 @@ main {
   height: 300px;
 }
 
-#about-me-container {
+.container {
   display: flex;
   border: solid red 2px;
   justify-content: center;
 }
 
-#about-me-container h1 {
+.container h1 {
   border: solid red 2px;
   align-self: center;
   font-size: 35px;
   padding: 10px;
 }
 
-#about-me-container article {
+.container article {
   border: solid red 2px;
   margin: 10px;
   width: 50%;
   justify-content: center;
   flex-wrap: wrap;
+}
+
+#contact-container {
+  display: flex;
 }
