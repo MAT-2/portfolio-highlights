@@ -57,12 +57,13 @@ main {
   align-self: center;
   font-size: 35px;
   padding: 10px;
+  width: 20%;
 }
 
 .container article {
   border: solid green 2px;
   margin: 10px;
-  width: 50%;
+  width: 70%;
   justify-content: center;
   flex-wrap: wrap;
 }
