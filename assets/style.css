@@ -67,3 +67,9 @@ main {
   justify-content: center;
   flex-wrap: wrap;
 }
+
+.project-work {
+  background-color: aqua;
+  border: solid rgb(0, 140, 255) 3px;
+  margin: 2%;
+}
