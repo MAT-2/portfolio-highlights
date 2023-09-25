@@ -104,3 +104,17 @@ main {
   color: aliceblue;
   font-size: 50px;
 }
+
+.panel-caption {
+  background: rgb(0, 140, 255);
+  color: aliceblue;
+  width: 160px;
+}
+
+/* #project-work2 {
+  background-image: url(https://s7d1.scene7.com/is/image/mcdonalds/DC_202002_6050_SmallFrenchFries_Standing_832x472:1-3-product-tile-desktop?wid=765&hei=472&dpr=off);
+}
+
+#project-work3 {
+  background-image: url(https://s7d1.scene7.com/is/image/mcdonalds/DC_202002_6050_SmallFrenchFries_Standing_832x472:1-3-product-tile-desktop?wid=765&hei=472&dpr=off);
+} */
