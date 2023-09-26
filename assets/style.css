@@ -98,6 +98,13 @@ body {
   font-size: 50px;
 }
 
+/* Animations */
+
+.project-work:hover {
+  transform: scale(1.2, 1.2);
+  transition: all 0.4s ease-in-out;
+}
+
 /* This below is an ID for the top project banner. It looks weird in HTML that we are using the last element, but it is because we are using flex:wrap wrap-reverse! */
 
 #project-work1 {
@@ -108,7 +115,7 @@ body {
 .panel-caption {
   background: rgb(0, 140, 255);
   color: aliceblue;
-  width: 160px;
+  width: 200px;
 }
 
 #project-work2 {
