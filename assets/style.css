@@ -35,6 +35,11 @@ ul li {
   color: rgb(149, 234, 255);
 }
 
+ul li a {
+  list-style: none;
+  color: rgb(149, 234, 255);
+}
+
 main {
   margin: 20px;
 }

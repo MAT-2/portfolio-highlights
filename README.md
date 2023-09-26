@@ -11,6 +11,7 @@ This portfolio contains all the highlighted work I have done as a developer.
 - https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius
 - https://www.nordtheme.com/docs/colors-and-palettes
 - https://cssgradient.io/
+- https://www.geeksforgeeks.org/how-to-create-links-to-sections-within-the-same-page-in-html/
 
 ## Images Used
 
