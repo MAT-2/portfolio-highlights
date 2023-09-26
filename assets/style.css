@@ -36,7 +36,11 @@ ul li {
 }
 
 main {
-  border: solid blue 2px;
+  margin: 20px;
+}
+
+body {
+  background: #d8dee9;
 }
 
 #banner {
@@ -47,17 +51,18 @@ main {
 .container {
   display: flex;
   flex-wrap: wrap;
-  border: solid brown 2px;
   justify-content: space-around;
   margin: 20px;
 }
 
 .container h1 {
-  border: solid red 2px;
+  border-right: solid rgb(0, 140, 255) 7px;
   align-self: center;
   font-size: 35px;
   padding: 10px;
   width: 20%;
+  padding-left: 210px;
+  text-align: center;
 }
 
 /* Note: I used the flex-wrap: wrap-reverse. This helps have the children elements inside the work-container to have that pyramid looking effect. */
@@ -67,7 +72,6 @@ main {
   flex-wrap: wrap;
 }
 .container article {
-  border: solid green 2px;
   margin: 10px;
   width: 70%;
   justify-content: center;
@@ -92,11 +96,7 @@ main {
 /* This below is an ID for the top project banner. It looks weird in HTML that we are using the last element, but it is because we are using flex:wrap wrap-reverse! */
 
 #project-work1 {
-  border: solid rgb(0, 140, 255) 3px;
-  border-radius: 5px;
-  height: 300px;
   width: 1050px;
-  margin: 2%;
   background-image: url(https://wallpapershome.com/images/wallpapers/nebula-1280x720-space-stars-4k-6592.jpg);
 }
 
@@ -128,10 +128,10 @@ main {
   flex-wrap: wrap;
   align-items: center;
   padding: 20px;
-  border: solid salmon 5px;
+  border: none;
 }
 
 .contact-details {
   padding: 10px;
-  border: solid brown 6px;
+  text-decoration: underline solid rgb(0, 140, 255) 7px;
 }
