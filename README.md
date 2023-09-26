@@ -14,6 +14,7 @@ This portfolio contains all the highlighted work I have done as a developer.
 - https://www.geeksforgeeks.org/how-to-create-links-to-sections-within-the-same-page-in-html/
 - https://www.w3schools.com/css/css3_shadows_box.asp
 - https://tobiasahlin.com/blog/how-to-animate-box-shadow/
+- https://www.w3schools.com/css/css3_mediaqueries.asp
 
 ## Images Used
 
