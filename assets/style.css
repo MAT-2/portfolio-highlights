@@ -114,7 +114,8 @@ body {
 
 #project-work1 {
   width: 1050px;
-  background-image: url(https://wallpapershome.com/images/wallpapers/nebula-1280x720-space-stars-4k-6592.jpg);
+  background-image: url(images/quote-of-the-day-logo.png);
+  text-decoration: none;
 }
 
 .panel-caption {
@@ -151,4 +152,9 @@ body {
 .contact-details {
   padding: 10px;
   text-decoration: underline solid rgb(0, 140, 255) 7px;
+}
+
+#projectLink1 {
+  text-decoration: none;
+  color: aliceblue;
 }
