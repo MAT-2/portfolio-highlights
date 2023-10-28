@@ -1,4 +1,4 @@
-* {
+/* * {
   font-family: Arial, Helvetica, sans-serif;
   color: rgb(104, 111, 135);
   box-sizing: border-box;
@@ -77,6 +77,7 @@ body {
 
 /* Note: I used the flex-wrap: wrap-reverse. This helps have the children elements inside the work-container to have that pyramid looking effect. */
 
+/*
 .work-container {
   display: flex;
   flex-wrap: wrap;
@@ -105,14 +106,14 @@ body {
 
 /* Animations */
 
-.project-work:hover {
+/* .project-work:hover {
   transform: scale(1.2, 1.2);
   transition: all 0.4s ease-in-out;
-}
+} */
 
 /* This below is an ID for the top project banner. It looks weird in HTML that we are using the last element, but it is because we are using flex:wrap wrap-reverse! */
 
-#project-work1 {
+/* #project-work1 {
   width: 1050px;
   background-image: url(images/quote-of-the-day-logo.png);
   text-decoration: none;
@@ -157,4 +158,4 @@ body {
 #projectLink1 {
   text-decoration: none;
   color: aliceblue;
-}
+} */

@@ -4,11 +4,16 @@ This portfolio contains all the highlighted work I have done as a developer.
 
 ## Website URL
 
-mat-2.github.io/portfolio-highlights/ 
+mat-2.github.io/portfolio-highlights/
+
+## Installation
+
+- Bootstrap v.5.1: https://getbootstrap.com/docs/5.1/getting-started/introduction/
 
 ## Resources
 
-- UT Austin FullStack Coding Bootcamp
+- https://cdnjs.com/libraries/animate.css
+- https://animate.style/#usage
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - https://www.w3schools.com/html/html5_semantic_elements.asp
 - https://www.w3schools.com/cssref/pr_font_weight.php
