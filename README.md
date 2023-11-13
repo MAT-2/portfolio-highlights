@@ -27,3 +27,5 @@ mat-2.github.io/portfolio-highlights/
 - https://www.w3schools.com/css/css3_shadows_box.asp
 - https://tobiasahlin.com/blog/how-to-animate-box-shadow/
 - https://www.w3schools.com/css/css3_mediaqueries.asp
+- Clipart photo for employee tracker card: https://thenounproject.com/browse/icons/term/employee-time/
+- Clipart photo for README Generator card: https://iconscout.com/icons/markdown
