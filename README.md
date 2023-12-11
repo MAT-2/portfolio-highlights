@@ -29,3 +29,4 @@ mat-2.github.io/portfolio-highlights/
 - https://www.w3schools.com/css/css3_mediaqueries.asp
 - Clipart photo for employee tracker card: https://thenounproject.com/browse/icons/term/employee-time/
 - Clipart photo for README Generator card: https://iconscout.com/icons/markdown
+- Image used for Stress-Free-Me v.2 Overhaul card: https://www.flaticon.com/free-icon/mental-health_3997942
